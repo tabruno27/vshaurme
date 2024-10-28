@@ -12,7 +12,7 @@
 
 ### Как помогать
 
-Проект работает на [Django 1.11.1](https://docs.djangoproject.com). 
+Проект работает на [Django 1.11.1](https://djangoproject.com). 
 Сейчас очень нужна помощь с моделированием системы, почитать о котором можно [здесь](https://docs.djangoproject.com/en/1.11/intro/tutorial02/#creating-models).
 
 ### Как запускать
